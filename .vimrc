@@ -9,6 +9,8 @@ call neobundle#begin(expand('~/.vim/bundle/'))
 NeoBundleFetch 'Shougo/neobundle.vim'
 " NERDTree
 NeoBundle 'scrooloose/nerdtree'
+" autoclose
+NeoBundle 'Townk/vim-autoclose'
 
 call neobundle#end()
  
